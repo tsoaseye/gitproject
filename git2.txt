@@ -3,3 +3,4 @@ i. Working area
 11 Staging area
 iii commit area
 
+Let's now add another line
